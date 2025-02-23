@@ -1,2 +1,2 @@
 # hyperblog
-Ensayo de blog para Git y Github
+Para Git y Github
